@@ -5,7 +5,7 @@ const path = require('path');
 
 // GET (return index.html)
 router.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, '/../public/index.html'));
+    res.sendFile(path.join(__dirname, '/../index.html'));
 });
 
 // GET (return notes.html)
