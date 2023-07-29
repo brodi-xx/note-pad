@@ -37,7 +37,7 @@ Once you have the file running, you are able to add, save, delete your notes
 
 I ultized a tutoring session with Scott who is a TA as well as a youtube tutorial on routes and class content
 
-<img src = "https://github.com/brodi-xx/README-Generator-/blob/main/Develop/Screenshot%202023-04-23%20at%205.57.55%20PM.png?raw=true">
+<img src = "https://github.com/brodi-xx/note-pad/blob/main/public/assets/Application-image.png?raw=true">
 
 ## License
 
